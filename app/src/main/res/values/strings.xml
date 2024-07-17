@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bluetooth Kotlin Test</string>
+    <string name="pired_devices">Зʼєднані девайси\n</string>
+    <string name="bluetooth_desable">Блютуз відключено\n</string>
+    <string name="finded_devices">Знайдені пристрої\n</string>
+    <string name="search">Пошук</string>
+
+</resources>
